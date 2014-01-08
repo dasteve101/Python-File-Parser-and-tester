@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<tests>
+  <test name="Test1">
+    <regex>
+      ab*
+    </regex>
+    <function>
+      test1
+    </function>
+    <arguments>
+      a long string
+      b
+      2
+      9
+    </arguments>
+  <test name="Test2">
+    <regex>
+      ab*
+    </regex>
+    <function>
+      test1
+    </function>
+    <arguments>
+      a long string
+      different args
+      to same function
+      9
+    </arguments>
+</tests>
+
+
+
+
+
